@@ -9,12 +9,12 @@ export const Footer: React.FC = () => {
         <p className="text-sm text-muted-foreground">
           Powered by{' '}
           <a
-            href="https://catcat.blog/"
+            href="https://dash.140537.xyz"
             target="_blank"
             rel="noopener noreferrer"
             className="font-medium underline underline-offset-4 hover:text-primary"
           >
-            猫猫博客
+            蚊子导航
           </a>
         </p>
       </div>
